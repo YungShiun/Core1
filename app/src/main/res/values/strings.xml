@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Core 1</string>
+    <string name="sneeze">Sneeze</string>
+    <string name="take_medication">TAKE MEDICATION</string>
+    <string name="blow_nose">BLOW NOSE</string>
+    <string name="_10">10</string>
+</resources>
